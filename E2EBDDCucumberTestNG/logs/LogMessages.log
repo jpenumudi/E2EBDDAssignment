@@ -1,0 +1,13 @@
+2020-05-04 09:31:08:356 [main] INFO  com.bdd.Pages.ProductOverview - Browser Closed
+2020-05-04 09:31:21:963 [main] INFO  com.bdd.StepDefinition.Hooks - Browser opened, url launched and user is on homepage
+2020-05-04 09:31:22:126 [main] INFO  com.bdd.Pages.ProductOverview - Product Overview page url is: http://ahyush.com/
+2020-05-04 09:31:22:127 [main] INFO  com.bdd.Pages.ProductOverview - User is on Product overview page
+2020-05-04 09:31:26:015 [main] INFO  com.bdd.Pages.ProductOverview - FB link is visible
+2020-05-04 09:31:29:363 [main] INFO  com.bdd.Pages.ProductOverview - Connecting to Facebook
+2020-05-04 09:31:29:364 [main] INFO  com.bdd.Pages.ProductOverview - facebook page is opened in another window
+2020-05-04 09:31:48:440 [main] INFO  com.bdd.Pages.HomePage - Url of the landing page is: https://www.facebook.com/ahyushwellness/
+2020-05-04 09:31:48:440 [main] INFO  com.bdd.Pages.HomePage - The landing page is Facebook page
+2020-05-04 09:31:48:757 [main] INFO  com.bdd.Pages.HomePage - User is back on Product Overview page
+2020-05-04 09:31:48:942 [main] INFO  com.bdd.Pages.HomePage - Test Case Passed is: CHECK CONNECTION TO FACEBOOK FEATURE
+2020-05-04 09:31:49:599 [main] INFO  com.bdd.Pages.HomePage - Name of the passed testcase screenshot is: CHECK CONNECTION TO FACEBOOK FEATURE.png
+2020-05-04 09:31:52:138 [main] INFO  com.bdd.Pages.HomePage - Browser Closed

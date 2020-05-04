@@ -1,0 +1,46 @@
+2020-05-01 16:10:21:059 [main] INFO  com.bdd.StepDefinition.CommonMethods - Browser Closed
+2020-05-01 16:10:31:855 [main] INFO  com.bdd.StepDefinition.Hooks - Browser opened, url launched and user is on homepage
+2020-05-01 16:10:36:485 [main] INFO  com.bdd.Pages.HomePage - Confirmed the company logo on the homepage
+2020-05-01 16:10:37:983 [main] INFO  com.bdd.StepDefinition.CommonMethods - Test Case Passed is: CONFIRM THE PRESENCE OF COMPANY LOGO ON HOMEPAGE
+2020-05-01 16:10:39:449 [main] INFO  com.bdd.StepDefinition.CommonMethods - Name of the passed testcase screenshot is: CONFIRM THE PRESENCE OF COMPANY LOGO ON HOMEPAGE.png
+2020-05-01 16:10:40:613 [main] INFO  com.bdd.StepDefinition.CommonMethods - Browser Closed
+2020-05-01 16:10:49:880 [main] INFO  com.bdd.StepDefinition.Hooks - Browser opened, url launched and user is on homepage
+2020-05-01 16:10:58:729 [main] INFO  com.bdd.Pages.HomePage - Accessing the video
+2020-05-01 16:11:01:908 [main] INFO  com.bdd.Pages.HomePage - Video opens in an iframe
+2020-05-01 16:11:06:297 [main] INFO  com.bdd.StepDefinition.CommonMethods - Control is on iframe
+2020-05-01 16:11:09:497 [main] INFO  com.bdd.StepDefinition.CommonMethods - User clicked on play button
+2020-05-01 16:11:09:499 [main] INFO  com.bdd.StepDefinition.CommonMethods - Playing the video
+2020-05-01 16:11:17:051 [main] INFO  com.bdd.StepDefinition.CommonMethods - User clicked on mute button
+2020-05-01 16:11:17:054 [main] INFO  com.bdd.StepDefinition.CommonMethods - Muted the video
+2020-05-01 16:11:22:875 [main] INFO  com.bdd.StepDefinition.CommonMethods - User clicked on unmute button
+2020-05-01 16:11:22:877 [main] INFO  com.bdd.StepDefinition.CommonMethods - Unmuted the video
+2020-05-01 16:11:30:187 [main] INFO  com.bdd.StepDefinition.CommonMethods - User clicked on pause button
+2020-05-01 16:11:30:189 [main] INFO  com.bdd.StepDefinition.CommonMethods - Stopped the video
+2020-05-01 16:11:33:001 [main] INFO  com.bdd.StepDefinition.CommonMethods - The user is back on parent frame
+2020-05-01 16:11:36:129 [main] INFO  com.bdd.StepDefinition.CommonMethods - User clicks on close button
+2020-05-01 16:11:36:133 [main] INFO  com.bdd.StepDefinition.CommonMethods - Closed the video window
+2020-05-01 16:11:36:134 [main] INFO  com.bdd.StepDefinition.CommonMethods - Test Case Passed is: CHECK THE VIDEO FUNCTIONALITY
+2020-05-01 16:11:37:581 [main] INFO  com.bdd.StepDefinition.CommonMethods - Name of the passed testcase screenshot is: CHECK THE VIDEO FUNCTIONALITY.png
+2020-05-01 16:11:37:832 [main] INFO  com.bdd.StepDefinition.CommonMethods - Browser Closed
+2020-05-01 16:11:50:654 [main] INFO  com.bdd.StepDefinition.Hooks - Browser opened, url launched and user is on homepage
+2020-05-01 16:11:53:942 [main] INFO  com.bdd.Pages.HomePage - User clicked on country dropdown
+2020-05-01 16:11:53:943 [main] INFO  com.bdd.Pages.HomePage - Country options are displayed
+2020-05-01 16:11:59:169 [main] INFO  com.bdd.StepDefinition.CommonMethods - User selects a country
+2020-05-01 16:11:59:224 [main] INFO  com.bdd.StepDefinition.CommonMethods - Country selected is: USA
+2020-05-01 16:11:59:257 [main] INFO  com.bdd.StepDefinition.CommonMethods - Selected country name is displayed
+2020-05-01 16:12:00:337 [main] INFO  com.bdd.StepDefinition.CommonMethods - Test Case Passed is: SELECT A COUNTRY FROM THE DROP DOWN
+2020-05-01 16:12:01:401 [main] INFO  com.bdd.StepDefinition.CommonMethods - Name of the passed testcase screenshot is: SELECT A COUNTRY FROM THE DROP DOWN.png
+2020-05-01 16:12:03:567 [main] INFO  com.bdd.StepDefinition.CommonMethods - Browser Closed
+2020-05-01 16:12:13:491 [main] INFO  com.bdd.StepDefinition.Hooks - Browser opened, url launched and user is on homepage
+2020-05-01 16:12:17:825 [main] INFO  com.bdd.Pages.HomePage - User clicks on About Us link
+2020-05-01 16:12:17:827 [main] INFO  com.bdd.Pages.HomePage - About Us Page rendered
+2020-05-01 16:12:23:727 [main] INFO  com.bdd.StepDefinition.CommonMethods - Navigated back to home page
+2020-05-01 16:12:23:728 [main] INFO  com.bdd.StepDefinition.CommonMethods - Test Case Passed is: CHECK ABOUT US FEATURE
+2020-05-01 16:12:24:647 [main] INFO  com.bdd.StepDefinition.CommonMethods - Name of the passed testcase screenshot is: CHECK ABOUT US FEATURE.png
+2020-05-01 16:12:26:788 [main] INFO  com.bdd.StepDefinition.CommonMethods - Browser Closed
+2020-05-01 16:12:36:425 [main] INFO  com.bdd.StepDefinition.Hooks - Browser opened, url launched and user is on homepage
+2020-05-01 16:12:36:452 [main] INFO  com.bdd.Pages.HomePage - HomePage url is: http://ahyush.com/
+2020-05-01 16:12:41:365 [main] INFO  com.bdd.Pages.HomePage - User clicks on product overview page
+2020-05-01 16:12:41:566 [main] INFO  com.bdd.Pages.ProductOverview - Title of Product Overview page is: Ahyush | Product Overview
+2020-05-01 16:12:41:566 [main] INFO  com.bdd.Pages.ProductOverview - Product overview page is displayed
+2020-05-01 16:12:41:683 [main] INFO  com.bdd.Pages.ProductOverview - User confirms Product information image
